@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ycxtlll
 - 👀 I’m interested in Internet.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on China.
+- 💞️ I’m looking to collaborate in China.
 - 📫 How to reach me ycxtlll@foxmail.com.
 
 <!---
